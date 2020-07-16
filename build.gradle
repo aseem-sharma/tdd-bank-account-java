@@ -1,5 +1,6 @@
 defaultTasks 'clean', 'build', 'jacocoTestReport'
 
+
 repositories {
     jcenter()
     mavenCentral()
